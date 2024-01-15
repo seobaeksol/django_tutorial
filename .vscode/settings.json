@@ -1,0 +1,3 @@
+{
+  "pylint.args": ["django_setting_module=django_tutorial.settings"]
+}
